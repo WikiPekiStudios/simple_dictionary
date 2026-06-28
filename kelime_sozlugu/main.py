@@ -1,4 +1,5 @@
 import systembatchs.system as system
+import random
 
 print("                          AnlBot'a hoşgeldin. Bir kelime söyle anlamını söyleyeyim!")
 
